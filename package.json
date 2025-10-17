@@ -1,0 +1,13 @@
+{
+  "name": "the-spot-bot",
+  "version": "1.0.1",
+  "description": "WhatsApp bot gratis para The Spot Chile / Botillería Marcet (Render) usando whatsapp-web.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.24.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
